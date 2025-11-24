@@ -3,7 +3,7 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFhank4YXdub25lY3RvbXphYXlnMzBpNTdsNHR2OWwza2ZmMnkxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="200" align="right">
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dpsgs.org%2Fprincipal_app.php&psig=AOvVaw1wETYlqgMRW8Yx52G4EF3b&ust=1764085125489000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDBoKyPi5EDFQAAAAAdAAAAABAE" width="200" align="centre">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dpsgs.org%2Fprincipal_app.php&psig=AOvVaw1wETYlqgMRW8Yx52G4EF3b&ust=1764085125489000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDBoKyPi5EDFQAAAAAdAAAAABAE">
 
 - 📫**mayank27800@gmail.com**
 
