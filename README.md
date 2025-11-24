@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank Sharma</h1>
 <h3 align="center">A passionate Open Source Contributor from India</h3>
-
-- 📫 How to reach me **mayank27800@gmail.com**
+https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFhank4YXdub25lY3RvbXphYXlnMzBpNTdsNHR2OWwza2ZmMnkxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif
+- 📫**mayank27800@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
